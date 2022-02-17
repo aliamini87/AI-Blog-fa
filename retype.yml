@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: https://github.com/aliamini87/AI-Blog-fa/
+branding:
+  title: در باب هوش مصنوعی
+  label: بلاگ
+  logo: static/best-big-data-service-hongkong-fa.png
+links:
+- text: Home
+  link: /default.md
+  icon: home
+- text: GitHub
+  link: https://github.com/aliamini87/AI-Blog-fa/
+  icon: mark-github
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
