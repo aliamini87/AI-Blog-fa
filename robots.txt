@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://github.com/aliamini87/AI-Blog-fa/sitemap.xml.gz
+Sitemap: https://aliamini87.github.io/AI-Blog-fa/sitemap.xml.gz
