@@ -23,10 +23,11 @@ visibility: public
 
 جدیدا یک وبینار از Andrew Ng درباره MLOps و هوش مصنوعی داده-محور ( در مقابل مدل-محور) نگاه کردم که بسیار جالب بود. در این یادداشت خلاصه نکاتی که در این وبینار مطرح شد رو مینویسم.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/06-AZXmwHjo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="width: 100%;">    <div style="width: 100%; padding-top: 56.25%; position: relative;">        <iframe style="position: absolute; width: 100%; height: 100%; top: 0; right: 0; border: none" src="https://www.dideo.ir/pre_embed/v/yt/06-AZXmwHjo"                allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  allow="accelerometer; gyroscope; picture-in-picture; autoplay; fullscreen; encrypted-media" frameborder="0">        </iframe>    </div></div>
 
 
-سیستم های هوش مصنوعی از داده و کد تشکیل شده اند.
+همانطور که میدانید، سیستم های هوش مصنوعی از داده و کد تشکیل شده اند.
 
 
 ![](../static/Pasted_image_20220211182002_1.png)
